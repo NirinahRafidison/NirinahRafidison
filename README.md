@@ -43,6 +43,14 @@ Welcome to my GitHub profile!
 * English: B2
 * German: B1
 
+  ## Interests
+
+* Singing
+* Photography
+* Traveling
+* Tennis
+
+
 ## Contact
 
 * Email: [vanillasavienny@gmail.com](mailto:vanillasavienny@gmail.com)
