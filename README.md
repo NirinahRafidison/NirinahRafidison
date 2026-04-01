@@ -1,41 +1,3 @@
-# Bonjour, je suis Vanilla Rafidison 👋
-
-Bienvenue sur mon profil GitHub !
-
-## À propos de moi
-
-* Étudiante en Master 1 Big Data & Business Intelligence à l'Université Sorbonne Paris Nord
-* Future Data Analyst
-* J’analyse des données avec Python, SQL et Power BI dans l'objectif de transformer les données en insights utiles pour la prise de décision
-
-## Technologies
-
-* Langages : Python, R, SQL
-* Outils : Power BI, Excel, Git, VS Code
-* Data : Pandas, NumPy
-
-## Projets académiques
-
-* Analyse de tendances Google Trends
-* Application de navigation campus (Tech Lead)
-* Projet IoT (capteur connecté)
-
-## Expériences
-
-* Assistante coordination & suivi de données – Invenco (Madagascar)
-Suivi en temps réel des données (billetterie, accès)
-et création de tableaux de bord logistique
-* Trophée Ex-Machina – Orange Cyberdéfense
-Simulation de gestion de crise cyber en équipe
-
-## Me contacter
-
-* Email : [vanillasavienny@gmail.com](mailto:vanillasavienny@gmail.com)
-* LinkedIn : https://linkedin.com/in/vanilla-rafidison
-
-
-
----
 
 # Hello, I'm Vanilla Rafidison 👋
 
@@ -67,6 +29,12 @@ Welcome to my GitHub profile!
 
 * Ex-Machina Trophy – Orange Cyberdefense
   Cyber crisis management simulation in a team environment
+
+  ## Languages
+
+* French: Native
+* English: B2
+* German: B1
 
 ## Contact
 
