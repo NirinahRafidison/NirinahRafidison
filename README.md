@@ -37,13 +37,13 @@ Welcome to my GitHub profile!
 * Ex-Machina Trophy – Orange Cyberdefense:
   Cyber crisis management simulation in a team environment
 
-  ## Languages
+## Languages
 
 * French: Native
 * English: B2
 * German: B1
 
-  ## Interests
+## Interests
 
 * Singing
 * Photography
