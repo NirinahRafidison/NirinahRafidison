@@ -33,47 +33,7 @@ Simulation de gestion de crise cyber en équipe
 * Email : [vanillasavienny@gmail.com](mailto:vanillasavienny@gmail.com)
 * LinkedIn : https://linkedin.com/in/vanilla-rafidison
 
-Parfait 👍 très bonne idée d’ajouter une version anglaise (super utile pour recruteurs internationaux).
 
-Je t’ai fait une version **propre, fidèle et naturelle en anglais**, placée juste en dessous 👇
-
----
-
-# Hi, I'm Vanilla Rafidison 👋
-
-Bienvenue sur mon profil GitHub !
-
-## À propos de moi
-
-* Étudiante en Master 1 Big Data & Business Intelligence à l'Université Sorbonne Paris Nord
-* Future Data Analyst
-* J’analyse des données avec Python, SQL et Power BI dans l'objectif de transformer les données en insights utiles pour la prise de décision
-
-## Technologies
-
-* Langages : Python, R, SQL
-* Outils : Power BI, Excel, Git, VS Code
-* Data : Pandas, NumPy
-
-## Projets académiques
-
-* Analyse de tendances Google Trends
-* Application de navigation campus (Tech Lead)
-* Projet IoT (capteur connecté)
-
-## Expériences
-
-* Assistante coordination & suivi de données – Invenco (Madagascar)
-  Suivi en temps réel des données (billetterie, accès)
-  Création de tableaux de bord logistique
-
-* Trophée Ex-Machina – Orange Cyberdéfense
-  Simulation de gestion de crise cyber en équipe
-
-## Me contacter
-
-* Email : [vanillasavienny@gmail.com](mailto:vanillasavienny@gmail.com)
-* LinkedIn : [https://linkedin.com/in/vanilla-rafidison](https://linkedin.com/in/vanilla-rafidison)
 
 ---
 
