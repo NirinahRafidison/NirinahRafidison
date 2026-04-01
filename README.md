@@ -15,6 +15,13 @@ Welcome to my GitHub profile!
 * Tools: Power BI, Excel, Git, VS Code
 * Data: Pandas, NumPy
 
+## Education
+
+* Master’s degree (Year 1) in Big Data & Business Intelligence – Sorbonne Paris Nord University (2025 - 2026)
+* Bachelor’s degree (Year 3) in Economics and Social Sciences – Paris Cité University (2024 - 2025)
+* French Baccalaureate – with honors – Luigi Orione High School, Madagascar (2021 - 2022)
+
+
 ## Academic Projects
 
 * Google Trends data analysis
