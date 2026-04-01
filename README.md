@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bonjour, je suis Vanilla Rafidison 👋
 
-<!--
-**NirinahRafidison/NirinahRafidison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Étudiante en Master 1 Big Data & Business Intelligence
+* Future Data Analyst
+* J’analyse des données avec Python, SQL et Power BI
+* Objectif : transformer les données en insights utiles pour la prise de décision
+
+## Technologies
+
+* Langages : Python, R, SQL
+* Outils : Power BI, Excel, Git, VS Code
+* Data : Pandas, NumPy
+
+## Projets
+
+* Analyse de tendances Google Trends
+* Application de navigation campus (Tech Lead)
+* Projet IoT (capteur connecté)
+
+## Me contacter
+
+* Email : [vanillasavienny@gmail.com](mailto:vanillasavienny@gmail.com)
+* LinkedIn : https://linkedin.com/in/vanilla-rafidison
