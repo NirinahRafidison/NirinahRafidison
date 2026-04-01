@@ -24,7 +24,7 @@ Bienvenue sur mon profil GitHub !
 
 * Assistante coordination & suivi de données – Invenco (Madagascar)
 Suivi en temps réel des données (billetterie, accès)
-Création de tableaux de bord logistique
+et création de tableaux de bord logistique
 * Trophée Ex-Machina – Orange Cyberdéfense
 Simulation de gestion de crise cyber en équipe
 
