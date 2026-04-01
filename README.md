@@ -39,7 +39,7 @@ Je t’ai fait une version **propre, fidèle et naturelle en anglais**, placée 
 
 ---
 
-# Bonjour, je suis Vanilla Rafidison 👋
+# Hi, I'm Vanilla Rafidison 👋
 
 Bienvenue sur mon profil GitHub !
 
