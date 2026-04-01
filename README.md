@@ -30,11 +30,11 @@ Welcome to my GitHub profile!
 
 ## Experience
 
-* Data Coordination Assistant – Invenco (Madagascar)
-  Real-time data monitoring (ticketing, access)
+* Data Coordination Assistant – Invenco (Madagascar):
+  Real-time data monitoring (ticketing, access),
   Creation of logistics dashboards
 
-* Ex-Machina Trophy – Orange Cyberdefense
+* Ex-Machina Trophy – Orange Cyberdefense:
   Cyber crisis management simulation in a team environment
 
   ## Languages
