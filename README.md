@@ -59,3 +59,11 @@ for decision-making using Python, SQL, and Power BI.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 📚 Currently Learning
+
+[![Harvard](https://img.shields.io/badge/Harvard_Online-A51C30?style=for-the-badge&logo=data:image/png;base64,...&logoColor=white)](https://online-learning.harvard.edu/)
+
+- 🎓 Enrolled in a **Harvard Online certification** program
+- 🌱 Expanding skills in Data Science & advanced analytics
+- 🔬 Applying new knowledge to real-world data projects
