@@ -1,6 +1,8 @@
 
 # Hello, I'm Vanilla Rafidison 👋
 
+![Coding](https://github.com/user-attachments/assets/61f2e088-eb0a-4365-a476-0f7c34876cd0)
+
 Welcome to my GitHub profile!
 
 ## About me
