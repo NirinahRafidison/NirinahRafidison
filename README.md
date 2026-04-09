@@ -1,10 +1,10 @@
-<table>
-<tr>
-<td valign="top" width="60%">
-  
 <img width="1584" height="396" alt="gut" src="https://github.com/user-attachments/assets/644253cb-8653-433f-98ba-24514ce52a33" />
 
 ## Welcome to my GitHub profile!
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 * Master's student in Big Data & Business Intelligence at Sorbonne Paris Nord University
 * Aspiring Data Analyst
