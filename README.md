@@ -67,3 +67,41 @@ for decision-making using Python, SQL, and Power BI.
 - 🎓 Enrolled in a **Harvard Online certification** program
 - 🌱 Expanding skills in Data Science & advanced analytics
 - 🔬 Applying new knowledge to real-world data projects
+
+---
+
+<h2 align="center">💫 MY MOTTO 💫</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Dare+to+envision+greatness.&author=Vanilla" />
+</p>
+
+---
+
+<h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
+
+<p align="center">
+  <a href="mailto:vanillasavienny@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/VSavienny">
+    <img src="https://skillicons.dev/icons?i=X" width="60" height="60"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_vienny.llaa">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/NirinahRafidison">
+    <img src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vanillarafidison">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/vanilla'srafidison">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="60"/>
+  </a>
+</p>
