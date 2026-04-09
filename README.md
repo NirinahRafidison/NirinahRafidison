@@ -96,11 +96,11 @@ for decision-making using Python, SQL, and Power BI.
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/vanilla Rafidison">
+  <a href="https://linkedin.com/in/Vanilla Rafidison">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
   </a>
   &nbsp;
-  <a href="https://facebook.com/vanilla's Rafidison">
+  <a href="https://facebook.com/Vanilla's Rafidison">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="60"/>
   </a>
 </p>
