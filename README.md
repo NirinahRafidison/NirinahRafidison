@@ -2,7 +2,8 @@
 
 <h1>
   <img src="https://github.com/user-attachments/assets/83769e3a-3812-4126-b68a-4b764b7c404b" width="100"/>
- I'm Vanilla RAFIDISON,  Welcome to my GitHub profile!
+ I'm Vanilla RAFIDISON,  
+ Welcome to my GitHub profile!
 </h1>
 
 
