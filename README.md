@@ -36,8 +36,8 @@ for decision-making using Python, SQL, and Power BI.
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
 </p>
 
 ## 🛠️ Technologies & Tools
