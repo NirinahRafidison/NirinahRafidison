@@ -72,9 +72,15 @@ for decision-making using Python, SQL, and Power BI.
 
 <h2 align="center">💫 MY MOTTO 💫</h2>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Dare+to+envision+greatness.&author=Vanilla" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td style="background-color:#8B0000; border-radius:12px; padding:30px; color:white; font-style:italic; font-size:18px;">
+        ❝ Dare to envision greatness. ❞
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -86,7 +92,7 @@ for decision-making using Python, SQL, and Power BI.
   </a>
   &nbsp;
   <a href="https://x.com/VSavienny">
-    <img src="https://skillicons.dev/icons?i=X" width="60" height="60"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="60"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/_vienny.llaa">
