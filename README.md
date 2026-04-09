@@ -1,6 +1,10 @@
 <img width="1584" height="396" alt="gut" src="https://github.com/user-attachments/assets/644253cb-8653-433f-98ba-24514ce52a33" />
 
-## Welcome to my GitHub profile!
+<h1>
+  <img src="https://github.com/user-attachments/assets/83769e3a-3812-4126-b68a-4b764b7c404b" width="45"/>
+ ## I'M VANILLA RAFIDISON,  Welcome to my GitHub profile!
+</h1>
+
 
 <table>
 <tr>
