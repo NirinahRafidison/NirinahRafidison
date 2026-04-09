@@ -6,56 +6,20 @@
  Welcome to my GitHub profile!
 </h1>
 
-
 <table>
 <tr>
 <td valign="top" width="60%">
+  
+I am a Big Data & Business Intelligence student with a strong interest in
+data analysis, passionate about turning raw data into actionable insights
+for decision-making using Python, SQL, and Power BI.
 
-* Master's student in Big Data & Business Intelligence at Sorbonne Paris Nord University
-* Aspiring Data Analyst
-* I analyze data using Python, SQL, and Power BI to turn data into actionable insights for decision-making
-
-## Technologies
-
-* Languages: Python, R, SQL
-* Tools: Power BI, Excel, Git, VS Code
-* Data: Pandas, NumPy
-
-## Education
-
-* Master’s degree (Year 1) in Big Data & Business Intelligence – Sorbonne Paris Nord University (2025 - 2026)
-* Bachelor’s degree (Year 3) in Economics and Social Sciences – Paris Cité University (2024 - 2025)
-* French Baccalaureate – with honors – Luigi Orione High School, Madagascar (2021 - 2022)
-
-
-## Academic Projects
-
-* Google Trends data analysis
-* Campus navigation application (Tech Lead)
-* IoT project (connected sensor)
-
-## Experience
-
-* Data Coordination Assistant – Invenco (Madagascar):
-  Real-time data monitoring (ticketing, access),
-  Creation of logistics dashboards
-
-* Ex-Machina Trophy – Orange Cyberdefense:
-  Cyber crisis management simulation in a team environment
-
-## Languages
-
-* French: Native
-* English: B2
-* German: B1
-
-## Interests
-
-* Singing
-* Photography
-* Traveling
-* Tennis
-
+- ✨ Master's student at Sorbonne Paris Nord University
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity
+- 🔍 Aspiring Data Analyst — open to internship opportunities
+- 🎵 Passionate about singing, photography, and traveling
+- 🎾 Tennis player in my free time
+- 💬 Ask me about: Python, SQL, Power BI, Data Analysis
 
 </td>
 <td valign="top" width="409%" align="center">
@@ -66,8 +30,22 @@
 </tr>
 </table>
 
+## 🛠️ Technologies & Tools
 
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Tools**
 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+**Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
