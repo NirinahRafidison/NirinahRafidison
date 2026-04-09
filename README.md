@@ -51,8 +51,14 @@ Welcome to my GitHub profile!
 * Tennis
 
 
-<img src="![Coding](https://github.com/user-attachments/assets/61f2e088-eb0a-4365-a476-0f7c34876cd0)" width="350"/>
+</td>
+<td valign="top" width="45%" align="center">
 
+<img src="https://github.com/user-attachments/assets/61f2e088-eb0a-4365-a476-0f7c34876cd0" width="350"/>
+
+</td>
+</tr>
+</table>
 
 
 
