@@ -1,9 +1,7 @@
-
-# Hello, I'm Vanilla Rafidison 👋
-
-![Coding](https://github.com/user-attachments/assets/61f2e088-eb0a-4365-a476-0f7c34876cd0)
+<img width="1584" height="396" alt="gut" src="https://github.com/user-attachments/assets/644253cb-8653-433f-98ba-24514ce52a33" />
 
 Welcome to my GitHub profile!
+
 
 ## About me
 
@@ -52,11 +50,17 @@ Welcome to my GitHub profile!
 * Traveling
 * Tennis
 
+</td>
+<td valign="top" width="45%" align="center">
 
-## Contact
+<img src="![Coding](https://github.com/user-attachments/assets/61f2e088-eb0a-4365-a476-0f7c34876cd0)" width="350"/>
 
-* Email: [vanillasavienny@gmail.com](mailto:vanillasavienny@gmail.com)
-* LinkedIn: [https://linkedin.com/in/vanilla-rafidison](https://linkedin.com/in/vanilla-rafidison)
+</td>
+</tr>
+</table>
+
+
+
 
 
 
