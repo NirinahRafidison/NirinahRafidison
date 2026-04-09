@@ -72,15 +72,8 @@ for decision-making using Python, SQL, and Power BI.
 
 <h2 align="center">💫 MY MOTTO 💫</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="background-color:#8B0000; border-radius:12px; padding:30px; color:white; font-style:italic; font-size:18px;">
-        ❝ Dare to envision greatness. ❞
-      </td>
-    </tr>
-  </table>
-</div>
+
+<img width="1584" height="396" alt="Bleu et Blanc Moderne Professionnelle  Nouvelle Bannière LinkedIn" src="https://github.com/user-attachments/assets/84eaa54d-398a-461a-8bcb-3094a6ee3efb" />
 
 ---
 
