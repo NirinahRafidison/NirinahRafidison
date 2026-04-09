@@ -96,7 +96,7 @@ for decision-making using Python, SQL, and Power BI.
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/Vanilla_Rafidison">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/vanilla-rafidison-22b292251">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
   </a>
   &nbsp;
