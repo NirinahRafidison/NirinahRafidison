@@ -1,9 +1,10 @@
+<table>
+<tr>
+<td valign="top" width="60%">
+  
 <img width="1584" height="396" alt="gut" src="https://github.com/user-attachments/assets/644253cb-8653-433f-98ba-24514ce52a33" />
 
-Welcome to my GitHub profile!
-
-
-## About me
+## Welcome to my GitHub profile!
 
 * Master's student in Big Data & Business Intelligence at Sorbonne Paris Nord University
 * Aspiring Data Analyst
@@ -52,7 +53,7 @@ Welcome to my GitHub profile!
 
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="409%" align="center">
 
 <img src="https://github.com/user-attachments/assets/61f2e088-eb0a-4365-a476-0f7c34876cd0" width="350"/>
 
